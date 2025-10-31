@@ -9,10 +9,18 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/BlueChessin/NexOrbit/stargazers"><img src="https://img.shields.io/github/stars/BlueChessin/NexOrbit?color=007bff&style=for-the-badge" alt="Stars Badge"></a>
-  <a href="https://github.com/BlueChessin/NexOrbit/network/members"><img src="https://img.shields.io/github/forks/BlueChessin/NexOrbit?color=00b4d8&style=for-the-badge" alt="Forks Badge"></a>
-  <a href="https://github.com/BlueChessin/NexOrbit/blob/main/LICENSE"><img src="https://img.shields.io/github/license/BlueChessin/NexOrbit?color=0a0f24&style=for-the-badge" alt="License Badge"></a>
-  <a href="https://github.com/BlueChessin/NexOrbit/issues"><img src="https://img.shields.io/github/issues/BlueChessin/NexOrbit?color=5e60ce&style=for-the-badge" alt="Issues Badge"></a>
+  <a href="https://github.com/Aksh-Cloud/NexOrbit/stargazers">
+    <img src="https://img.shields.io/github/stars/Aksh-Cloud/NexOrbit?color=007bff&style=for-the-badge" alt="Stars Badge">
+  </a>
+  <a href="https://github.com/Aksh-Cloud/NexOrbit/network/members">
+    <img src="https://img.shields.io/github/forks/Aksh-Cloud/NexOrbit?color=00b4d8&style=for-the-badge" alt="Forks Badge">
+  </a>
+  <a href="https://github.com/Aksh-Cloud/NexOrbit/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/Aksh-Cloud/NexOrbit?color=0a0f24&style=for-the-badge" alt="License Badge">
+  </a>
+  <a href="https://github.com/Aksh-Cloud/NexOrbit/issues">
+    <img src="https://img.shields.io/github/issues/Aksh-Cloud/NexOrbit?color=5e60ce&style=for-the-badge" alt="Issues Badge">
+  </a>
 </p>
 
 ---
@@ -47,7 +55,7 @@ Built with **Three.js / TypeScript**, it brings the wonder of space physics into
 ## 🚀 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/BlueChessin/NexOrbit.git
+git clone https://github.com/Aksh-Cloud/NexOrbit.git
 cd NexOrbit
 
 # Install dependencies
